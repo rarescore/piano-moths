@@ -6,7 +6,5 @@ export default defineConfig({
     outDir: 'dist',
     assetsInlineLimit: 0,
   },
-  server: {
-    port: 5173,
-  },
+  server: { port: 5173 },
 });
